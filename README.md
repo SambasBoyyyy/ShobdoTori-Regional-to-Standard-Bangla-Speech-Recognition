@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShobdoTori: Regional to Standard Bangla Speech Recognition
 
 ## Overview
@@ -362,3 +363,7 @@ For questions or issues related to this project, please refer to the competition
 **Last Updated:** November 2025
 
 **Status:** Competition Submission ✅
+=======
+# ShobdoTori-Regional-to-Standard-Bangla-Speech-Recognition
+#Code and Demo will be published soon
+>>>>>>> 855a0d13135d135e391a249680cda23a6125d8bd
