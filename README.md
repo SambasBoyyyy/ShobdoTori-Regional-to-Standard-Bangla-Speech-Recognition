@@ -366,4 +366,4 @@ For questions or issues related to this project, please refer to the competition
 =======
 # ShobdoTori-Regional-to-Standard-Bangla-Speech-Recognition
 #Code and Demo will be published soon
->>>>>>> 855a0d13135d135e391a249680cda23a6125d8bd
+>>>>>>> 855a0d13135d135e391a249680cda23a6125d8bd 
